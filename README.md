@@ -15,11 +15,17 @@ https://github.com/WangRongxin/Statistics-2020-Autumn
 #### 课程安排
 
 lecture 1 课程导论（Introduction）
+
 lecture 2 描述性统计（Descriptive statistics） 
+
 lecture 3-6 统计推断（Inferential statistics）
+
 lecture 7-11 回归分析（Ordinary linear regression） 
+
 lecture 12-13 聚类分析（Cluster analysis）
+
 lecture 14-16 因子分析 （Factor analysis）
+
 lecture 17-20 Logistic回归 （Logistic regression）
 
 #### 教材
